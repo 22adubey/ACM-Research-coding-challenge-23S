@@ -1,4 +1,4 @@
-### My goal in this challenge was to create visualizations to understand the correlations between the attributes and how they contribute to the star type, and achieve a deeper understanding of the characteristics of the different star types.
+### My goal in this challenge was to create visualizations to understand the correlations between a star's attributes and how they contribute to the star type, and achieve a deeper understanding of differences between each of the star types.
 
 To help with this challenge I used the following sources:
 
