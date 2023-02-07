@@ -17,5 +17,6 @@ https://matplotlib.org/stable/api/
 
 ### What I learned and looking forward
 
-I learned how to use different python libraries such as matplotlib and seaborn to create graphs and visualizations from data. I also created my first ever machine learning model - I hope to dive deeper into this and learn how to create my accurate models.
+I learned how to use different python libraries such as matplotlib and seaborn to create graphs and visualizations from data. I also created my first ever machine learning model - I hope to dive deeper into this and learn how to create more
+accurate models.
 
